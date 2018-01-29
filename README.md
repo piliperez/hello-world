@@ -62,3 +62,9 @@ web 1
 
 
 </html>
+
+
+CSS
+body{
+    background-color:aqua
+}
